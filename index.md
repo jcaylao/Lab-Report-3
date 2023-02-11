@@ -14,6 +14,8 @@ Example 2:
 
 ![Image](https://github.com/jcaylao/Lab-Report-3/blob/main/Screenshot%202023-02-10%20152920.png?raw=true)
 
+I will be using the `-r` option in the upcoming examples.
+
 ### **`grep -i`**
 
 The `-i` option of grep is used to ignore uppercases or lowercases, meaning as long as the words match, it would not matter whether it was uppercase or lowercase. This is useful because if this option were not used with a word that was inputted with all uppercase, then the matches would not show up because the computer would not be able to detect the match. Through these examples, you can see that the files do not show up unless the `-i` option is used due to the cases not matching up with eachother.
