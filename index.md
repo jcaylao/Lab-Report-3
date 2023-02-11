@@ -52,6 +52,18 @@ input `grep -w "study"`
 
 ![Image](https://github.com/jcaylao/Lab-Report-3/blob/main/Screenshot%202023-02-10%20161024.png?raw=true)
 
+### **`grep -l`**
+
+The option `-l` (lowercase L) is used to return the filenames only, rather than returning a whole section of text that contains the inputted string. This would be useful in cases  where there is a large amount of files and long sections of texts when the terminal would not be able to hold all of the information and cuts off some of it due to running out of space on the terminal (cannot scroll up any further).
+
+Example 1: 
+
+![Image](https://github.com/jcaylao/Lab-Report-3/blob/main/Screenshot%202023-02-10%20162206.png?raw=true)
+
+Example 2:
+
+![Image](https://github.com/jcaylao/Lab-Report-3/blob/main/Screenshot%202023-02-10%20162141.png?raw=true)
 
 ## **Sources**
 https://www.geeksforgeeks.org/grep-command-in-unixlinux/
+https://alvinalexander.com/linux-unix/recursive-grep-r-searching-egrep-find/
